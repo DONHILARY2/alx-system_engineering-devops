@@ -1,1 +1,1 @@
-my README.md for this project
+my readme directory  for this project
